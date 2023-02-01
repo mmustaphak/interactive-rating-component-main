@@ -107,6 +107,6 @@ body{
     font-size: 13px;
     width: 300px;
 }
-.myClass{
+.myClass:focus{
    background-color: hsl(25, 97%, 53%); 
 }
